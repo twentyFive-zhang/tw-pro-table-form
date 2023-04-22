@@ -47,7 +47,8 @@
     ]
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://www.npmjs.com/package/tw-pro-table-form"
   },
   "peerDependencies": {
     "react": ">=16.9.0",
