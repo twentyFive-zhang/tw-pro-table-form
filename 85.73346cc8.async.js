@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktw_pro_table_form=self.webpackChunktw_pro_table_form||[]).push([[85],{68085:function(s,n,r){r.r(n),r.d(n,{ColorPicker:function(){return l},Foo:function(){return u}});var f=r(67294),t=r(85893),c=function(o){return(0,t.jsx)("h4",{children:o.title})},u=c,e=function(o){return(0,t.jsx)("h4",{children:o.title})},l=e}}]);
